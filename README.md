@@ -2,7 +2,7 @@
 
 ## Controls
 - [W A S D / Up Down Left Right] - arrow keys
-- mice to loo´k
+- mice to look
 
 ## Gameplay Features
 - feature A
