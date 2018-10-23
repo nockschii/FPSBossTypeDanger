@@ -27,6 +27,7 @@ public class PlayerLook : MonoBehaviour
     private void LockCursor()
     {
         Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     // Rotate camera by using mouse input
