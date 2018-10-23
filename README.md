@@ -3,11 +3,11 @@ A small fps game in which you have to find your way to the "escape portal". You 
 
 ## Controls
 - W A S D / arrow keys							|	move player
-- mousee to look									| 	aim
-- spacebar										|	jump
-- C 											|   duck
-- LeftShift										|   run
-- Mouse1										|	fire
+- mousee to look						  			| 	aim
+- spacebar    						  				|	jump
+- C 										          	|   duck
+- LeftShift								      		|   run
+- Mouse1								        		|	fire
 
 ## Gameplay Features
 - First Person Shooter
